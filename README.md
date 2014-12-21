@@ -1,4 +1,3 @@
-GettingData
-===========
+# Project 1 for "Getting and Cleaning Data"
 
-Project 1 for course "Getting and Cleaning Data"
+The data used for creating the tidy data table here is taken from [the Machine Learning Repository at UC Irvine](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones). For copyright information, see: *Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra* and *Jorge L. Reyes-Ortiz*, **Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine**, International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
