@@ -24,4 +24,4 @@ Step 3: note that this step has already been completed in Step 0 (preprocessing 
 
 Step 4: note that this step has already been completed in step 1 (merging step)
 
-Step 5: process the subset to calculate the average values of each variable following grouping by each activity and each subject
+Step 5: process the subset to calculate the average values of each variable following grouping by each activity and each subject. This uses a temporary 3d array to store the values of the averages being calculated by tapply(), and this array is then "unrolled" to get the output into a 2-d layout.
