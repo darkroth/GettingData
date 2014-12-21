@@ -66,7 +66,7 @@ Additional vectors obtained by averaging the signals in a signal window sample. 
 
 \<**end quote**\>
 
-The complete list of variables in the tidy data set associated with this markdown file is provided below, using the explanations provided in the quoted section above:
+The complete list of variables in the tidy data set associated with this markdown file is provided below, using the explanations provided in the quoted section above, apart from the first two. Those two variables are described next:  *subject* (an ID representing the test participant) and *activity* (one of WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING):
 
 * subject
 * activity
